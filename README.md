@@ -1,8 +1,10 @@
+![Profile Banner](https://github.com/Timmapuram-Karthik/Timmapuram-Karthik/blob/main/profile_banner.png)
+
 # Hello, I'm T Karthik 👋
 
 Passionate Data Scientist | Python Programmer | Machine Learning Enthusiast
 
-![Profile Banner](link-to-your-profile-banner-image)
+
 
 ## About Me
 
