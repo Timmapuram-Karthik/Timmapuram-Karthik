@@ -24,6 +24,14 @@ I am a dedicated data science enthusiast pursuing a Bachelor of Technology degre
 - Machine Learning: Regression, Classification, Clustering, Deep Learning
 - Tools: Jupyter Notebook, Git, Docker
 
+## Certifications
+
+- Introduction to SQL - [SoloLearn](https://www.sololearn.com/certificates/CC-7YD3ILDR)
+- Python(Basic) - [HackerRank](https://www.hackerrank.com/certificates/4e64fbe4f0ed)
+- The Algorithm Arena - [HackerEarth](https://drive.google.com/file/d/1JRoCv3RFgFq7cNOlGgdGS5HYRfxkS0vz/view?usp=sharing)
+- AWS Academy Cloud Foundations - [Amazon Web Services (AWS)](https://www.credly.com/go/ZlK6B25k)
+- PCAP: Programming Essentials in Python - [Cisco Networking Academy](https://drive.google.com/file/d/18QzXt8iK65OMHV04wO-uag8EQy-sww1V/view?usp=sharing)
+
 ## Connect with Me
 
 Let's connect and collaborate! You can reach me through:
