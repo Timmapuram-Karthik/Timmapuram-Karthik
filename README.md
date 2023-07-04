@@ -24,6 +24,17 @@ I am a dedicated data science enthusiast pursuing a Bachelor of Technology degre
 - Machine Learning: Regression, Classification, Clustering, Deep Learning
 - Tools: Jupyter Notebook, Git, Docker
 
+## Project: 
+1. **Monty Hall Simulator**
+- The Monty Hall Simulator is a Python-based program that simulates the Monty Hall problem. The Monty Hall problem is a famous probability puzzle that demonstrates   counterintuitive results in decision-making.
+
+- The simulator allows users to select one out of three doors and then simulates the host opening one of the remaining doors, revealing a goat behind it. Finally,    the program provides the option to switch the chosen door or stick with the original choice, followed by revealing whether the user wins a car or not.
+
+- To explore the code or run the Monty Hall Simulator, please visit the [Monty-Hall-Simulator](https://github.com/Timmapuram-Karthik/Monty-Hall-Simulator).
+
+- Feel free to check it out, leave feedback, or contribute to the project!
+
+
 ## Certifications
 
 - Introduction to SQL - [SoloLearn](https://www.sololearn.com/certificates/CC-7YD3ILDR)
