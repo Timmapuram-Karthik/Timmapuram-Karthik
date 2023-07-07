@@ -25,7 +25,7 @@ I am a dedicated data science enthusiast pursuing a Bachelor of Technology degre
 - Tools: Jupyter Notebook, Git, Docker
 
 ## Project: 
-1. **Monty Hall Simulator**
+### 1. **Monty Hall Simulator**
 - The Monty Hall Simulator is a Python-based program that simulates the Monty Hall problem. The Monty Hall problem is a famous probability puzzle that demonstrates   counterintuitive results in decision-making.
 
 - The simulator allows users to select one out of three doors and then simulates the host opening one of the remaining doors, revealing a goat behind it. Finally,    the program provides the option to switch the chosen door or stick with the original choice, followed by revealing whether the user wins a car or not.
@@ -34,6 +34,17 @@ I am a dedicated data science enthusiast pursuing a Bachelor of Technology degre
 
 - Feel free to check it out, leave feedback, or contribute to the project!
 
+
+### 2. **Tic Tac Toe**
+- Developed a classic Tic Tac Toe game in Python with a user-friendly interface, dynamic board updates, and accurate win determination.
+  
+- Implemented a command-line interface that allows two players to compete against each other, selecting 'X' or 'O', and making moves by choosing cell numbers on the board.
+  
+- Validated user inputs to prevent invalid moves and provided real-time feedback on game outcomes, including declaring the winner or announcing a draw.
+  
+- To explore the code or run the Monty Hall Simulator, please visit the [Tic-Tac-Toe](https://github.com/Timmapuram-Karthik/Tic-Tac-Toe).
+
+- Feel free to check it out, leave feedback, or contribute to the project!
 
 ## Certifications
 
