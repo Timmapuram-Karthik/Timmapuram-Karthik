@@ -4,8 +4,6 @@
 
 Passionate Data Scientist | Python Programmer | Machine Learning Enthusiast
 
-
-
 ## About Me
 
 I am a dedicated data science enthusiast pursuing a Bachelor of Technology degree. With a strong background in Python programming, data analysis, and machine learning, I love working with complex datasets to uncover valuable insights and develop data-driven solutions.
@@ -24,35 +22,43 @@ I am a dedicated data science enthusiast pursuing a Bachelor of Technology degre
 - Machine Learning: Regression, Classification, Clustering, Deep Learning
 - Tools: Jupyter Notebook, Git, Docker
 
-## Project: 
-### 1. **Monty Hall Simulator**
-- The Monty Hall Simulator is a Python-based program that simulates the Monty Hall problem. The Monty Hall problem is a famous probability puzzle that demonstrates   counterintuitive results in decision-making.
+## Projects
 
-- The simulator allows users to select one out of three doors and then simulates the host opening one of the remaining doors, revealing a goat behind it. Finally,    the program provides the option to switch the chosen door or stick with the original choice, followed by revealing whether the user wins a car or not.
+### Monty Hall Simulator
+- The Monty Hall Simulator is a Python-based program that simulates the Monty Hall problem, a famous probability puzzle demonstrating counterintuitive results in decision-making.
+- Users can select one out of three doors and the program simulates the host opening a door, revealing a goat. The option to switch the chosen door or stick with the original choice is provided, followed by revealing whether the user wins a car or not.
+- To explore the code or run the Monty Hall Simulator, please visit the [Monty-Hall-Simulator Repository](https://github.com/Timmapuram-Karthik/Monty-Hall-Simulator)
 
-- To explore the code or run the Monty Hall Simulator, please visit the [Monty-Hall-Simulator](https://github.com/Timmapuram-Karthik/Monty-Hall-Simulator).
-
-- Feel free to check it out, leave feedback, or contribute to the project!
-
-
-### 2. **Tic Tac Toe**
+### Tic Tac Toe
 - Developed a classic Tic Tac Toe game in Python with a user-friendly interface, dynamic board updates, and accurate win determination.
-  
 - Implemented a command-line interface that allows two players to compete against each other, selecting 'X' or 'O', and making moves by choosing cell numbers on the board.
-  
 - Validated user inputs to prevent invalid moves and provided real-time feedback on game outcomes, including declaring the winner or announcing a draw.
-  
-- To explore the code or run the Monty Hall Simulator, please visit the [Tic-Tac-Toe](https://github.com/Timmapuram-Karthik/Tic-Tac-Toe).
-
-- Feel free to check it out, leave feedback, or contribute to the project!
+- To explore the code or run the Monty Hall Simulator, please visit the [Tic-Tac-Toe Repository](https://github.com/Timmapuram-Karthik/Tic-Tac-Toe)
 
 ## Certifications
 
 - Introduction to SQL - [SoloLearn](https://www.sololearn.com/certificates/CC-7YD3ILDR)
-- Python(Basic) - [HackerRank](https://www.hackerrank.com/certificates/4e64fbe4f0ed)
+- Python (Basic) - [HackerRank](https://www.hackerrank.com/certificates/4e64fbe4f0ed)
 - The Algorithm Arena - [HackerEarth](https://drive.google.com/file/d/1JRoCv3RFgFq7cNOlGgdGS5HYRfxkS0vz/view?usp=sharing)
 - AWS Academy Cloud Foundations - [Amazon Web Services (AWS)](https://www.credly.com/go/ZlK6B25k)
 - PCAP: Programming Essentials in Python - [Cisco Networking Academy](https://drive.google.com/file/d/18QzXt8iK65OMHV04wO-uag8EQy-sww1V/view?usp=sharing)
+
+## Education
+
+- Bachelor of Technology (B.Tech) in Computer Science and Engineering
+  - Sri Venkatesa Perumal College of Engineering and Technology
+  - Aug 2020 - Apr 2024 (Expected)
+  - Grade: Pursuing
+
+- Intermediate (MPC)
+  - Sri Chaitanya College of Education
+  - Jul 2018 - Apr 2020
+  - Grade: 8.5
+
+- Secondary School Education (10th class)
+  - Sri Chaitanya Children's Academy
+  - Jul 2017 - Apr 2018
+  - Grade: 9.7
 
 ## Connect with Me
 
