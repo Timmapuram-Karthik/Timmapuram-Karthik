@@ -42,6 +42,7 @@ I am a dedicated data science enthusiast pursuing a Bachelor of Technology degre
 - The Algorithm Arena - [HackerEarth](https://drive.google.com/file/d/1JRoCv3RFgFq7cNOlGgdGS5HYRfxkS0vz/view?usp=sharing)
 - AWS Academy Cloud Foundations - [Amazon Web Services (AWS)](https://www.credly.com/go/ZlK6B25k)
 - PCAP: Programming Essentials in Python - [Cisco Networking Academy](https://drive.google.com/file/d/18QzXt8iK65OMHV04wO-uag8EQy-sww1V/view?usp=sharing)
+- Scientific Computing with Python -[Freecodecamp](https://freecodecamp.org/certification/t-karthik/scientific-computing-with-python-v7)
 
 ## Education
 
