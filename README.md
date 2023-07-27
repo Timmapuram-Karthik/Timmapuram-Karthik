@@ -18,9 +18,9 @@ I am a dedicated data science enthusiast pursuing a Bachelor of Technology degre
 ## Skills
 
 - Programming: Python (NumPy, Pandas, scikit-learn), SQL
-- Data Analysis and Visualization: Matplotlib, Seaborn, Tableau
+- Data Analysis and Visualization: Matplotlib, Seaborn, PowerBI
 - Machine Learning: Regression, Classification, Clustering, Deep Learning
-- Tools: Jupyter Notebook, Git, Docker
+- Tools: Jupyter Notebook, Git
 
 ## Projects
 
