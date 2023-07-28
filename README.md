@@ -36,13 +36,16 @@ I am a dedicated data science enthusiast pursuing a Bachelor of Technology degre
 - To explore the code or run the Monty Hall Simulator, please visit the [Tic-Tac-Toe Repository](https://github.com/Timmapuram-Karthik/Tic-Tac-Toe)
 
 ## Certifications
+## Certifications
 
-- Introduction to SQL - [SoloLearn](https://www.sololearn.com/certificates/CC-7YD3ILDR)
-- Python (Basic) - [HackerRank](https://www.hackerrank.com/certificates/4e64fbe4f0ed)
-- The Algorithm Arena - [HackerEarth](https://drive.google.com/file/d/1JRoCv3RFgFq7cNOlGgdGS5HYRfxkS0vz/view?usp=sharing)
-- AWS Academy Cloud Foundations - [Amazon Web Services (AWS)](https://www.credly.com/go/ZlK6B25k)
-- PCAP: Programming Essentials in Python - [Cisco Networking Academy](https://drive.google.com/file/d/18QzXt8iK65OMHV04wO-uag8EQy-sww1V/view?usp=sharing)
-- Scientific Computing with Python -[Freecodecamp](https://freecodecamp.org/certification/t-karthik/scientific-computing-with-python-v7)
+- [Machine Learning with Python](https://courses.cognitiveclass.ai/certificates/c815c21e6f5043a2b1b0cc80ecb6ced2) - IBM
+- [AWS Academy Cloud Foundations](https://www.credly.com/go/ZlK6B25k) - Amazon Web Services (AWS)
+- [Scientific Computing with Python](https://freecodecamp.org/certification/t-karthik/scientific-computing-with-python-v7) - Freecodecamp
+- [The Algorithm Arena](https://drive.google.com/file/d/1JRoCv3RFgFq7cNOlGgdGS5HYRfxkS0vz/view?usp=sharing) - HackerEarth
+- [PCAP: Programming Essentials in Python](https://drive.google.com/file/d/18QzXt8iK65OMHV04wO-uag8EQy-sww1V/view?usp=sharing) - Cisco Networking Academy
+- [Python (Basic)](https://www.hackerrank.com/certificates/4e64fbe4f0ed) - HackerRank
+- [Introduction to SQL](https://www.sololearn.com/certificates/CC-7YD3ILDR) - SoloLearn
+
 
 ## Education
 
