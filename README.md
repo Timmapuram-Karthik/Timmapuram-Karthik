@@ -36,7 +36,6 @@ I am a dedicated data science enthusiast pursuing a Bachelor of Technology degre
 - To explore the code or run the Monty Hall Simulator, please visit the [Tic-Tac-Toe Repository](https://github.com/Timmapuram-Karthik/Tic-Tac-Toe)
 
 ## Certifications
-## Certifications
 
 - [Machine Learning with Python](https://courses.cognitiveclass.ai/certificates/c815c21e6f5043a2b1b0cc80ecb6ced2) - IBM
 - [AWS Academy Cloud Foundations](https://www.credly.com/go/ZlK6B25k) - Amazon Web Services (AWS)
