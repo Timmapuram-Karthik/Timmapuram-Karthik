@@ -19,7 +19,7 @@ I am a dedicated data science enthusiast pursuing a Bachelor of Technology degre
 
 - Programming: Python (NumPy, Pandas, scikit-learn), SQL
 - Data Analysis and Visualization: Matplotlib, Seaborn, PowerBI
-- Machine Learning: Regression, Classification, Clustering, Deep Learning
+- Machine Learning: Regression, Classification, Clustering
 - Tools: Jupyter Notebook, Git
 
 ## Projects
@@ -35,6 +35,11 @@ I am a dedicated data science enthusiast pursuing a Bachelor of Technology degre
 - Validated user inputs to prevent invalid moves and provided real-time feedback on game outcomes, including declaring the winner or announcing a draw.
 - To explore the code or run the Monty Hall Simulator, please visit the [Tic-Tac-Toe Repository](https://github.com/Timmapuram-Karthik/Tic-Tac-Toe)
 
+### Gender Classification Model
+- The Gender Classification Model utilizes the Logistic Regression algorithm to predict the gender of individuals based on facial features such as long hair, forehead width, nose width, lips thinness, and more.
+- Trained on a labeled dataset, the model achieved an impressive accuracy of 97% on the testing data, making it highly effective in gender prediction.
+- To explore the complete project code and analysis, visit the [Gender-Classification-ML Repository](https://github.com/Timmapuram-Karthik/Gender-Classification-ML)
+
 ## Certifications
 
 - [Machine Learning with Python](https://courses.cognitiveclass.ai/certificates/c815c21e6f5043a2b1b0cc80ecb6ced2) - IBM
@@ -44,7 +49,6 @@ I am a dedicated data science enthusiast pursuing a Bachelor of Technology degre
 - [PCAP: Programming Essentials in Python](https://drive.google.com/file/d/18QzXt8iK65OMHV04wO-uag8EQy-sww1V/view?usp=sharing) - Cisco Networking Academy
 - [Python (Basic)](https://www.hackerrank.com/certificates/4e64fbe4f0ed) - HackerRank
 - [Introduction to SQL](https://www.sololearn.com/certificates/CC-7YD3ILDR) - SoloLearn
-
 
 ## Education
 
