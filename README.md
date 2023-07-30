@@ -43,6 +43,8 @@ I am a dedicated data science enthusiast pursuing a Bachelor of Technology degre
 ## Certifications
 
 - [Machine Learning with Python](https://courses.cognitiveclass.ai/certificates/c815c21e6f5043a2b1b0cc80ecb6ced2) - IBM
+- [Introduction to Machine Learning](https://www.kaggle.com/learn/certification/karthikthor/intro-to-machine-learning) - Kaggle
+- [Python for Datascience](https://courses.cognitiveclass.ai/certificates/72e6a6bde9b944beac2dd57d465b8b3a) - IBM
 - [AWS Academy Cloud Foundations](https://www.credly.com/go/ZlK6B25k) - Amazon Web Services (AWS)
 - [Scientific Computing with Python](https://freecodecamp.org/certification/t-karthik/scientific-computing-with-python-v7) - Freecodecamp
 - [The Algorithm Arena](https://drive.google.com/file/d/1JRoCv3RFgFq7cNOlGgdGS5HYRfxkS0vz/view?usp=sharing) - HackerEarth
