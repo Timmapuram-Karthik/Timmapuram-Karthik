@@ -42,6 +42,7 @@ I am a dedicated data science enthusiast pursuing a Bachelor of Technology degre
 
 ## Certifications
 
+- [Data Analysis with Python](https://courses.cognitiveclass.ai/certificates/5024e4a2ef754bebadf910d36205fad7) - IBM
 - [Machine Learning with Python](https://courses.cognitiveclass.ai/certificates/c815c21e6f5043a2b1b0cc80ecb6ced2) - IBM
 - [Introduction to Machine Learning](https://www.kaggle.com/learn/certification/karthikthor/intro-to-machine-learning) - Kaggle
 - [Data Visualization with Python](https://courses.cognitiveclass.ai/certificates/060b45395597493c8ae46e458c4eaa83) - IBM
@@ -52,6 +53,7 @@ I am a dedicated data science enthusiast pursuing a Bachelor of Technology degre
 - [PCAP: Programming Essentials in Python](https://drive.google.com/file/d/18QzXt8iK65OMHV04wO-uag8EQy-sww1V/view?usp=sharing) - Cisco Networking Academy
 - [Python (Basic)](https://www.hackerrank.com/certificates/4e64fbe4f0ed) - HackerRank
 - [Introduction to SQL](https://www.sololearn.com/certificates/CC-7YD3ILDR) - SoloLearn
+- [Career Edge - Young Professional](https://drive.google.com/file/d/1BLLcablINeHHIdCZU55MbGVI3oIqcyRx/view?usp=sharing) - TCS iON
 
 ## Education
 
