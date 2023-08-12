@@ -40,6 +40,11 @@ I am a dedicated data science enthusiast pursuing a Bachelor of Technology degre
 - Trained on a labeled dataset, the model achieved an impressive accuracy of 97% on the testing data, making it highly effective in gender prediction.
 - To explore the complete project code and analysis, visit the [Gender-Classification-ML Repository](https://github.com/Timmapuram-Karthik/Gender-Classification-ML)
 
+### Real Estate Price Prediction and Analysis
+- Embark on a journey through the real estate market! My project offers a deep dive into predictive modeling of property prices using advanced algorithms. Discover data-driven insights, powerful visualizations, and the factors shaping property valuations.
+- Trained on a labeled dataset, the model achieved an impressive accuracy of 87% on the testing data, making it highly effective in Real Estate Price Prediction.
+- Delve into the [Real Estate Price Prediction Project](https://github.com/Timmapuram-Karthik/Real-Estate-Price-ML) to unravel the secrets behind property pricing.
+
 ## Certifications
 
 - [Data Analysis with Python](https://courses.cognitiveclass.ai/certificates/5024e4a2ef754bebadf910d36205fad7) - IBM
