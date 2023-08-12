@@ -47,6 +47,7 @@ I am a dedicated data science enthusiast pursuing a Bachelor of Technology degre
 
 ## Certifications
 
+- [Applied Data Scientist with Python - Level 2](https://www.credly.com/badges/e4de8ea5-560c-4c53-91f5-2a0595d7dfef/public_url) -IBM
 - [Data Analysis with Python](https://courses.cognitiveclass.ai/certificates/5024e4a2ef754bebadf910d36205fad7) - IBM
 - [Machine Learning with Python](https://courses.cognitiveclass.ai/certificates/c815c21e6f5043a2b1b0cc80ecb6ced2) - IBM
 - [Introduction to Machine Learning](https://www.kaggle.com/learn/certification/karthikthor/intro-to-machine-learning) - Kaggle
