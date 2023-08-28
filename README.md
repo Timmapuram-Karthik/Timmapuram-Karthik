@@ -45,6 +45,11 @@ I am a dedicated data science enthusiast pursuing a Bachelor of Technology degre
 - Trained on a labeled dataset, the model achieved an impressive accuracy of 87% on the testing data, making it highly effective in Real Estate Price Prediction.
 - Delve into the [Real Estate Price Prediction Project](https://github.com/Timmapuram-Karthik/Real-Estate-Price-ML) to unravel the secrets behind property pricing.
 
+### Sentiment Analysis of Restaurant Reviews
+- Developed a sentiment analysis project in collaboration with Edunet Foundation and IBM, focusing on restaurant reviews.
+- Utilized machine learning techniques to analyze customer sentiments in restaurant reviews and predict positive or negative feedback.
+- Explore the [Sentiment Analysis of Restaurant Reviews Project](https://github.com/Timmapuram-Karthik/Edunet-IBM-Restaurant-Sentiment) and discover how machine learning uncovers insights from diners' sentiments in restaurant feedback.
+
 ## Certifications
 
 - [Applied Data Scientist with Python - Level 2](https://www.credly.com/badges/e4de8ea5-560c-4c53-91f5-2a0595d7dfef/public_url) -IBM
