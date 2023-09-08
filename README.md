@@ -24,35 +24,40 @@ I am a dedicated data science enthusiast pursuing a Bachelor of Technology degre
 
 ## Projects
 
-### Monty Hall Simulator
-- The Monty Hall Simulator is a Python-based program that simulates the Monty Hall problem, a famous probability puzzle demonstrating counterintuitive results in decision-making.
-- Users can select one out of three doors and the program simulates the host opening a door, revealing a goat. The option to switch the chosen door or stick with the original choice is provided, followed by revealing whether the user wins a car or not.
-- To explore the code or run the Monty Hall Simulator, please visit the [Monty-Hall-Simulator Repository](https://github.com/Timmapuram-Karthik/Monty-Hall-Simulator)
-
-### Tic Tac Toe
-- Developed a classic Tic Tac Toe game in Python with a user-friendly interface, dynamic board updates, and accurate win determination.
-- Implemented a command-line interface that allows two players to compete against each other, selecting 'X' or 'O', and making moves by choosing cell numbers on the board.
-- Validated user inputs to prevent invalid moves and provided real-time feedback on game outcomes, including declaring the winner or announcing a draw.
-- To explore the code or run the Monty Hall Simulator, please visit the [Tic-Tac-Toe Repository](https://github.com/Timmapuram-Karthik/Tic-Tac-Toe)
-
-### Gender Classification Model
-- The Gender Classification Model utilizes the Logistic Regression algorithm to predict the gender of individuals based on facial features such as long hair, forehead width, nose width, lips thinness, and more.
-- Trained on a labeled dataset, the model achieved an impressive accuracy of 97% on the testing data, making it highly effective in gender prediction.
-- To explore the complete project code and analysis, visit the [Gender-Classification-ML Repository](https://github.com/Timmapuram-Karthik/Gender-Classification-ML)
-
-### Real Estate Price Prediction and Analysis
-- Embark on a journey through the real estate market! My project offers a deep dive into predictive modeling of property prices using advanced algorithms. Discover data-driven insights, powerful visualizations, and the factors shaping property valuations.
-- Trained on a labeled dataset, the model achieved an impressive accuracy of 87% on the testing data, making it highly effective in Real Estate Price Prediction.
-- Delve into the [Real Estate Price Prediction Project](https://github.com/Timmapuram-Karthik/Real-Estate-Price-ML) to unravel the secrets behind property pricing.
+### Friday: Your Personal AI Assistant
+- Introducing Friday, your versatile voice-activated AI assistant. From answering questions to fetching real-time weather updates and cracking jokes, Friday simplifies tasks with natural voice interactions.
+- Behind the scenes, Friday combines cutting-edge speech recognition with OpenAI's GPT-3 for human-like conversations and precise responses to complex queries, making it a powerful and intuitive assistant.
+- Explore the future of voice technology with Friday. Whether you're a professional, student, or tech enthusiast, Friday streamlines tasks and delivers information effortlessly, making daily life more convenient.
 
 ### Sentiment Analysis of Restaurant Reviews
 - Developed a sentiment analysis project in collaboration with Edunet Foundation and IBM, focusing on restaurant reviews.
 - Utilized machine learning techniques to analyze customer sentiments in restaurant reviews and predict positive or negative feedback.
 - Explore the [Sentiment Analysis of Restaurant Reviews Project](https://github.com/Timmapuram-Karthik/Edunet-IBM-Restaurant-Sentiment) and discover how machine learning uncovers insights from diners' sentiments in restaurant feedback.
 
+### Real Estate Price Prediction and Analysis
+- Embark on a journey through the real estate market! My project offers a deep dive into predictive modeling of property prices using advanced algorithms. Discover data-driven insights, powerful visualizations, and the factors shaping property valuations.
+- Trained on a labeled dataset, the model achieved an impressive accuracy of 87% on the testing data, making it highly effective in Real Estate Price Prediction.
+- Delve into the [Real Estate Price Prediction Project](https://github.com/Timmapuram-Karthik/Real-Estate-Price-ML) to unravel the secrets behind property pricing.
+
+### Gender Classification Model
+- The Gender Classification Model utilizes the Logistic Regression algorithm to predict the gender of individuals based on facial features such as long hair, forehead width, nose width, lips thinness, and more.
+- Trained on a labeled dataset, the model achieved an impressive accuracy of 97% on the testing data, making it highly effective in gender prediction.
+- To explore the complete project code and analysis, visit the [Gender-Classification-ML Repository](https://github.com/Timmapuram-Karthik/Gender-Classification-ML)
+
+### Tic Tac Toe
+- Developed a classic Tic Tac Toe game in Python with a user-friendly interface, dynamic board updates, and accurate win determination.
+- Implemented a command-line interface that allows two players to compete against each other, selecting 'X' or 'O', and making moves by choosing cell numbers on the board.
+- Validated user inputs to prevent invalid moves and provided real-time feedback on game outcomes, including declaring the winner or announcing a draw.
+- To explore the code or run the Tic Tac Toe game, please visit the [Tic-Tac-Toe Repository](https://github.com/Timmapuram-Karthik/Tic-Tac-Toe)
+
+### Monty Hall Simulator
+- The Monty Hall Simulator is a Python-based program that simulates the Monty Hall problem, a famous probability puzzle demonstrating counterintuitive results in decision-making.
+- Users can select one out of three doors, and the program simulates the host opening a door, revealing a goat. The option to switch the chosen door or stick with the original choice is provided, followed by revealing whether the user wins a car or not.
+- To explore the code or run the Monty Hall Simulator, please visit the [Monty-Hall-Simulator Repository](https://github.com/Timmapuram-Karthik/Monty-Hall-Simulator)
+
 ## Certifications
 
-- [Applied Data Scientist with Python - Level 2](https://www.credly.com/badges/e4de8ea5-560c-4c53-91f5-2a0595d7dfef/public_url) -IBM
+- [Applied Data Scientist with Python - Level 2](https://www.credly.com/badges/e4de8ea5-560c-4c53-91f5-2a0595d7dfef/public_url) - IBM
 - [Data Analysis with Python](https://courses.cognitiveclass.ai/certificates/5024e4a2ef754bebadf910d36205fad7) - IBM
 - [Machine Learning with Python](https://courses.cognitiveclass.ai/certificates/c815c21e6f5043a2b1b0cc80ecb6ced2) - IBM
 - [Introduction to Machine Learning](https://www.kaggle.com/learn/certification/karthikthor/intro-to-machine-learning) - Kaggle
